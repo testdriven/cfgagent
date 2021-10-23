@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.testdriven</groupId>
 	<artifactId>cfgagent</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>Configuration Agent</name>
 	<description>Implementation of a JavaAgent that injects system properties for Java applications</description>
 	<url>https://github.com/testdriven/cfgagent</url>
@@ -31,7 +31,7 @@
 	<scm>
 		<url>scm:git:ssh://git@github.com/testdriven/cfgagent</url>
 		<connection>scm:git:ssh://git@github.com/testdriven/cfgagent</connection>
-		<tag>1.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
